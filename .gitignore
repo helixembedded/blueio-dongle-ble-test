@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+bleuio_dongle_test/ses/bleuio_dongle_ble_test.emSession
+
+bleuio_dongle_test/ses/Output/
